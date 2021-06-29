@@ -16,10 +16,10 @@
 
 <img align="left" height="270" width="450" src="https://github-readme-stats.vercel.app/api?username=abhijitmondal121&show_icons=true&bg_color=20,e44222,131e88&title_color=fff&text_color=fff&count_private=true">
 <img align="left" height="270" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitmondal121&bg_color=10,137e88,e22222&title_color=fff&text_color=fff&layout=compact">
-<img align="left"  height="270" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitmondal121&" alt="abhijitmondal121" />
+<img align="left"  height="270" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitmondal121&" alt="abhijitmondal121" />
 
 
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhijit35306370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhijit35306370" height="30" width="40" /></a>
