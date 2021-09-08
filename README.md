@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm </h1>
-<a link="https://abhijit-portfolio-web.000webhostapp.com/">ABHIJIT MONDAL</a>
+<h1 align="center">Hi 👋, I'm <a link="https://abhijit-portfolio-web.000webhostapp.com/">ABHIJIT MONDAL</a></h1>
+
 <!-- #[]() -->
 <h3 align="center">Hello, I am Abhijit Mondal.Currently pursuing Bachelor in Computer Application (BCA) from Netaji Subhash Engineering College.Skilled in C,C++,Java,Python,Html, Cascading  Style Sheets(css), JavaScript ,PHP and also familiar with Android app Devolopment.My dream to be a Software Engineer.</h3>
 
