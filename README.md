@@ -28,14 +28,19 @@
 
 
  ---
+ 
+ <p align="center">
+    <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhijitmondal121&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
+    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitmondal121&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+</p>
 
-
+<!-- 
 <img align="left" height="270" width="400" src="https://github-readme-stats.vercel.app/api?username=abhijitmondal121&show_icons=true&bg_color=20,e44222,131e88&title_color=fff&text_color=fff&count_private=true">
 <img align="right" height="268" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitmondal121&bg_color=10,137e88,e22222&title_color=fff&text_color=fff&layout=compact">
 <img align="center"  height="200" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitmondal121&alt="abhijitmondal121" />
 
 
-
+ -->
 
 
 
