@@ -1,6 +1,17 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">Hi there, I'm [ABHIJIT MONDAL]
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm [Deepak Agarwal]
 
-<!-- <h1 align="center">Hi 👋, I'm <a href="https://abhijit-portfolio-web.000webhostapp.com/">ABHIJIT MONDAL</a></h1> -->
+## I'm a Student 🤓
+
+- 🎓 I'm currently pursuing BCA from Netaji Subhash Engineering College
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning and exploring in Full Stack Web Development
+- 🥅 2021 Goals: Contribute more to my projects and stay active in Github
+<br /><br />
+
+<br />
+ -->
+
+ <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> , I'm <a href="https://abhijit-portfolio-web.000webhostapp.com/">ABHIJIT MONDAL</a></h1> 
 <!-- #[]() -->
 <h3 align="center">Hello, I am Abhijit Mondal.Currently pursuing Bachelor in Computer Application (BCA) from Netaji Subhash Engineering College.Skilled in C,C++,Java,Python,Html, Cascading  Style Sheets(css), JavaScript ,PHP and also familiar with Android app Devolopment.My dream to be a Software Engineer.</h3>
 
