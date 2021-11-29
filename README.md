@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Hello, I am Abhijit Mondal.Currently pursuing Bachelor in Computer Application (BCA) from Netaji Subhash Engineering College.Skilled in C,C++,Java,Python,Html, Cascading  Style Sheets(css), JavaScript ,PHP and also familiar with Android app Devolopment.My dream to be a Software Engineer.</h3> -->
 
 
- <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi , I'm <a href="https://abhijit-portfolio-web.000webhostapp.com/">Abhijit Mondal</a></h1> 
+ <h1 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi , I'm <a href="https://abhijit-portfolio-web.000webhostapp.com/">Abhijit Mondal</a></h1> 
 
 
 ## I'm a Student 🤓
