@@ -59,7 +59,7 @@
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![MySql](https://img.shields.io/badge/-MySql-grey?style=for-the-badge&logo=MySql&logoColor=white&labelColor=black)
+![MySql](https://img.shields.io/badge/-MySql-grey?style=for-the-badge&logo=MySql&logoColor=white&labelColor=brown)
 
 
 <br>
