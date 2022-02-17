@@ -55,6 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
+![SHELL](https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=shell&logoColor=white&labelColor=green)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=yellow)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
