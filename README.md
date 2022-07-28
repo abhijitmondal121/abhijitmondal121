@@ -40,7 +40,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitmondal121&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitmondal121" /> </p>
 
 
+<!--
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+-->
 
 <br><br>
 ## Languages & Tools 
