@@ -41,7 +41,7 @@
 
 
 
-<img align="left" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="330px" width="470"/>
+<img align="left" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="330px" width="440"/>
 
 
 <br><br>
