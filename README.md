@@ -1,5 +1,3 @@
-
- 
 <!-- <h3 align="center">Hello, I am Abhijit Mondal.Currently pursuing Bachelor in Computer Application (BCA) from Netaji Subhash Engineering College.Skilled in C,C++,Java,Python,Html, Cascading  Style Sheets(css), JavaScript ,PHP and also familiar with Android app Devolopment.My dream to be a Software Engineer.</h3> -->
 <!-- ![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
