@@ -14,7 +14,6 @@
 
 
 
-
  <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi, it's me <a href="https://abhijitmondal121.github.io/AbhijitPortfolio.github.io/">Abhijit Mondal</a>  🤓</h2>  
  
  
