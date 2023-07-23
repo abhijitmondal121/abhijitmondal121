@@ -14,7 +14,7 @@
 
 
 
- <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi, it's me <a href="https://abhijitmondal121.github.io/AbhijitPortfolio.github.io/">Abhijit Mondal</a>  🤓</h2>  
+ <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi, it's me <a href="https://abhijitmondal121.github.io/abhijitPortfolio/" target="_blank" rel="noopener noreferrer">Abhijit Mondal</a>  🤓</h2>  
  
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/YMjxt3IpkgY20VBFRG/source.gif" alt="Welcome to Shyam Github Page"  height="250px" width="250px" />
